@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Passionate Software QA Engineer ensuring software quality and reliability. Skilled in test planning, execution, automation, and enhancing user experiences.
 <!--
 **Shoovoon/Shoovoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
